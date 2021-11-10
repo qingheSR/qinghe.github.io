@@ -6,7 +6,7 @@
   <link href="https://github.com/qingheSR/qingheSR.github.io.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/qingheSR/qingheSR.github.io.git/"/>
-  <updated>2021-11-10T01:04:54.397Z</updated>
+  <updated>2021-11-10T12:56:46.682Z</updated>
   <id>https://github.com/qingheSR/qingheSR.github.io.git/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>删除测试文件</title>
+    <link href="https://github.com/qingheSR/qingheSR.github.io.git/2021/11/10/shan-chu-ce-shi-wen-jian/"/>
+    <id>https://github.com/qingheSR/qingheSR.github.io.git/2021/11/10/shan-chu-ce-shi-wen-jian/</id>
+    <published>2021-11-10T12:56:46.000Z</published>
+    <updated>2021-11-10T12:56:46.682Z</updated>
+    
+    
+    
+    
+    <category term="编程|生活|其他" scheme="https://github.com/qingheSR/qingheSR.github.io.git/categories/%E7%BC%96%E7%A8%8B-%E7%94%9F%E6%B4%BB-%E5%85%B6%E4%BB%96/"/>
+    
+    
+    <category term="标签1" scheme="https://github.com/qingheSR/qingheSR.github.io.git/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+    <category term="标签2" scheme="https://github.com/qingheSR/qingheSR.github.io.git/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+    <category term="标签3" scheme="https://github.com/qingheSR/qingheSR.github.io.git/tags/%E6%A0%87%E7%AD%BE3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇测试</title>
+    <link href="https://github.com/qingheSR/qingheSR.github.io.git/2021/11/10/di-yi-pian-ce-shi/"/>
+    <id>https://github.com/qingheSR/qingheSR.github.io.git/2021/11/10/di-yi-pian-ce-shi/</id>
+    <published>2021-11-10T12:50:26.000Z</published>
+    <updated>2021-11-10T13:00:59.090Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;文章测试&lt;br&gt;查看标签，作者，时间，分类是否正确&lt;br&gt;删除文章测试&lt;br&gt;图片上传测试  md&lt;br&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="编程" scheme="https://github.com/qingheSR/qingheSR.github.io.git/categories/programming/"/>
+    
+    
+    <category term="标签1" scheme="https://github.com/qingheSR/qingheSR.github.io.git/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+    <category term="标签2" scheme="https://github.com/qingheSR/qingheSR.github.io.git/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+    <category term="标签3" scheme="https://github.com/qingheSR/qingheSR.github.io.git/tags/%E6%A0%87%E7%AD%BE3/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
